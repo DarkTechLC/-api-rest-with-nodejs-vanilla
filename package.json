@@ -1,0 +1,12 @@
+{
+  "name": "api-rest-with-nodejs-vanilla",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "PORT=3333 node src/server.js"
+  },
+  "keywords": [],
+  "author": "Luís Clício",
+  "license": "ISC"
+}
